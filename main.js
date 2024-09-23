@@ -1,5 +1,5 @@
-// // let nomeUsuario = 'Julia Ducci Gohr, Joao Guilherme de Oliveira França';
-// // alert (nomeUsuario)
+let nomeUsuario = 'Julia Ducci Gohr, Joao Guilherme de Oliveira França';
+ alert (nomeUsuario)
  function soma (numero1,numero2) {
      return numero1 + numero2;
  }
@@ -19,4 +19,4 @@ let media1 = parseInt (prompt ('Qual a média dos valores?'));
 function media  (num3,num4,num5){
     return (num3+num4+num5)/3;
 }
-
+console.log (media (2,4,6));
