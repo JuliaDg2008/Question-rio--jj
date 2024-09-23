@@ -18,5 +18,6 @@ console.log (areaTriangulo (200,100));
 let nome = prompt(qual é seu nome?);
 document.write (nome);
 
-let media = parseInt (prompt (Qual a média dos valores?));
-document.write (2,4,6);
+let media = parseInt (prompt ('Qual a média dos valores?'));
+function media (num3,num4,num5);
+
