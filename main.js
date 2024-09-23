@@ -15,3 +15,9 @@ let areaTriangulo= function(base,altura){
 }
 
 console.log (areaTriangulo (200,100));
+
+let nome = prompt(qual é seu nome?);
+document.write (nome);
+
+let media = parseInt (prompt(qual a media dos valores?));
+document.write (media);
