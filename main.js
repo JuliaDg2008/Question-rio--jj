@@ -9,3 +9,9 @@ function areaQuadrado (lado) {
     return lado**2;
 }
 console.log (areaQuadrado (5));
+
+let areaTriangulo= function(){
+    return    ;
+}
+
+console.log()
