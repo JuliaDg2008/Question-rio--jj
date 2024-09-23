@@ -14,4 +14,4 @@ let areaTriangulo= function((base,altura)**){
     return  (base*altura)** ;
 }
 
-console.log(return);
+console.log ((return));
