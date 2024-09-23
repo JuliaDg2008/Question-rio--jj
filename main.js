@@ -15,8 +15,8 @@ let areaTriangulo= function(base,altura){
 }
 console.log (areaTriangulo (200,100));
 
-let media = parseInt (prompt ('Qual a média dos valores?'));
-function media1  (num3,num4,num5){
+let media1 = parseInt (prompt ('Qual a média dos valores?'));
+function media  (num3,num4,num5){
     return (num3+num4+num5)/3;
 }
-console.log (media1 (2,4,6));
+console.log (media (2,4,6));
