@@ -28,6 +28,6 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Esp�
 let i = 0;
 while (i<estados.length) {
     console.log(i);
-    i=i+1;
+    i++;
     console.log(estados[i]);
 }
